@@ -3,7 +3,7 @@ Project Overview
 
 This project implements a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset into 10 categories: airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. Using a combination of data augmentation, batch normalization, dropout, and adaptive learning rates, the model achieves robust performance and generalizes well to unseen images.
 
-Test Accuracy: 80.21%
+Test Accuracy: 86.71%
 
 This project demonstrates how CNNs can effectively extract hierarchical features from small RGB images, making it a solid foundation for exploring deeper architectures like ResNet, VGG, or custom CNN models.
 
